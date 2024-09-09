@@ -2,6 +2,6 @@
 
 **Tercer entregable**
 
-- [x]  primera tarea
-- [ ]  segunda tarea
-- [ ]  tercera tarea
+- [x]      primera tarea 1
+- [ ]      segunda tarea 2
+- [ ]      tercera tarea 3
