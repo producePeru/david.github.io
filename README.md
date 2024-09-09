@@ -1,1 +1,6 @@
-descripcion de las tareas
+# descripcion de las tareas
+
+## Tercer entregable
+- [x] primera tarea
+- [ ] segunda tarea
+- [ ] tercera tarea
