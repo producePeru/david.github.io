@@ -8,7 +8,7 @@
 - [ ] Setear fechas en el calendario
 
 **Reuniones**
-- [ ] Responsable de Convenios UGO, mostrar avance de plataforma de seguimiento de convenios
+- [x] Responsable de Convenios UGO, mostrar avance de plataforma de seguimiento de convenios
 - [ ] Reunión miércoles 11/09 con el jefe de área José, sistema para convenios UGER
 
 **Fixear**
