@@ -9,7 +9,7 @@
 
 **Reuniones**
 - [x] Responsable de Convenios UGO, mostrar avance de plataforma de seguimiento de convenios
-- [ ] Reunión miércoles 11/09 con el jefe de área José, sistema para convenios UGER
+- [x] Reunión miércoles 11/09 con el jefe de área José, sistema para convenios UGER
 
 **Fixear**
 - [ ] Sistema de Formalizaciones, la fecha de nacimiento > 100 años
